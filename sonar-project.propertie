@@ -1,7 +1,7 @@
 sonar.verbose=true
-sonar.projectKey=valaxy-ttrend_valaxy-ttrend
-sonar.organization=valaxy-ttrend
-sonar.projectName=valaxy-ttrend
+sonar.projectKey=pythonapp123_pythonappv1
+sonar.organization=pythonapp123
+sonar.projectName=pythonappv1
 sonar.language=python
 sonar.sourceEncoding=UTF-8
 sonar.sources=.
